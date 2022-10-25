@@ -1,5 +1,9 @@
 
-## Olá! Eu sou Idamiao
+## Olá! Eu sou a Isabel 
+
+👩‍💻 Formada em Engenharia Eletrônica e estudando Engenharia de Dados
+
+💻 Atualmente imersa nos estudos de todas tecnologias voltadas em Big Data e engenharia de Dados
 
 <div align="center">
   <a href="https://github.com/idamiao">
