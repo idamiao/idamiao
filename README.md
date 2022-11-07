@@ -1,7 +1,7 @@
 
 ## Olá! Eu sou a Isabel 
 
-👩‍💻 Formada em Engenharia Eletrônica e estou estudando Engenharia de Dados
+👩‍💻 Formada em Engenharia Eletrônica e buscando conhecimentos na área de Dados. 
 
 💻 Atualmente imersa nos estudos de todas tecnologias voltadas em Big Data e engenharia de Dados
 
