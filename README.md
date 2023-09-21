@@ -1,9 +1,9 @@
 
 ## Olá! Eu sou a Isabel 
 
-👩‍💻 Formada em Engenharia Eletrônica e buscando conhecimentos na área de Dados. 
+👩‍💻 Formada em Engenharia Eletrônica e buscando conhecimentos na área de Análise de Testes ou seja QA
 
-💻 Atualmente imersa nos estudos de todas tecnologias voltadas em Big Data e engenharia de Dados
+💻 Atualmente imersa nos estudos de todas tecnologias para me tornar uma Q.A
 
 <div align="center">
   <a href="https://github.com/idamiao">
